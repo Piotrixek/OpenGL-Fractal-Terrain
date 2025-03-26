@@ -1,4 +1,4 @@
-// Updated Terrain.cpp
+// Terrain.cpp
 #include "Terrain.h"
 #include <cmath>
 #include <cstdlib>
